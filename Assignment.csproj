@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ArmstrongExample.cs" />
+    <Compile Remove="Factorial.cs" />
+    <Compile Remove="Fibonacci.cs" />
+    <Compile Remove="Greatest3.cs" />
+    <Compile Remove="MethodOverloading.cs" />
+    <Compile Remove="Palindrome.cs" />
+    <Compile Remove="PrimeNumber.cs" />
+    <Compile Remove="ReverseNo.cs" />
+    <Compile Remove="Sumdigit.cs" />
+    <Compile Remove="SwappingNumber.cs" />
+    <Compile Remove="Table.cs" />
+  </ItemGroup>
+
+</Project>
