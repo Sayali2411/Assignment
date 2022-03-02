@@ -20,7 +20,11 @@
     <Compile Remove="Palindrome.cs" />
     <Compile Remove="Pattern1.cs" />
     <Compile Remove="PrimeNumber.cs" />
+    <Compile Remove="ProtectedModifier.cs" />
+    <Compile Remove="PublicModifier.cs" />
+    <Compile Remove="QueueImplementation.cs" />
     <Compile Remove="ReverseNo.cs" />
+    <Compile Remove="SimpleConsole.cs" />
     <Compile Remove="Sumdigit.cs" />
     <Compile Remove="SwappingNumber.cs" />
     <Compile Remove="Table.cs" />
