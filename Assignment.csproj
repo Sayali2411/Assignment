@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,11 +7,18 @@
 
   <ItemGroup>
     <Compile Remove="ArmstrongExample.cs" />
+    <Compile Remove="AssignmentOperator.cs" />
     <Compile Remove="Factorial.cs" />
     <Compile Remove="Fibonacci.cs" />
     <Compile Remove="Greatest3.cs" />
+    <Compile Remove="Hierarchical.cs" />
+    <Compile Remove="LogicalOperator.cs" />
+    <Compile Remove="MatrixMultiplication.cs" />
     <Compile Remove="MethodOverloading.cs" />
+    <Compile Remove="MethodOvveriding.cs" />
+    <Compile Remove="Multilevel.cs" />
     <Compile Remove="Palindrome.cs" />
+    <Compile Remove="Pattern1.cs" />
     <Compile Remove="PrimeNumber.cs" />
     <Compile Remove="ReverseNo.cs" />
     <Compile Remove="Sumdigit.cs" />
